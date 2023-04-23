@@ -14,6 +14,10 @@ class OrderWidget extends StatefulWidget {
 }
 
 class _OrderWidgetState extends State<OrderWidget> {
+  updateFunction(){
+
+  }
+
   @override
   Widget build(BuildContext context) {
     return Container(
