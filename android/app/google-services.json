@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951451534126",
+    "project_id": "harbour-ecommerce",
+    "storage_bucket": "harbour-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951451534126:android:ae2ee376daa530839f70bf",
+        "android_client_info": {
+          "package_name": "com.harbour_ecommerce.harbour_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951451534126-60epncr9qnimsgneep50g2mc49u6otp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harbour_ecommerce.harbour_ecommerce",
+            "certificate_hash": "a394466f00f9d8495f06cad4b95826185ef719e7"
+          }
+        },
+        {
+          "client_id": "951451534126-nhse5leo2m1ovfmt93sgp2ua0a7ds46d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Vs6_1KT8Uni2ynWc9oroUWVwfUN8bNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951451534126-nhse5leo2m1ovfmt93sgp2ua0a7ds46d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
